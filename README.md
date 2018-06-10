@@ -1,6 +1,6 @@
 # binder
 
-This repository contains the documentation and usage instructions for the mybinder.org service.
+This repository contains the documentation and usage instructions for the [mybinder.org](https://mybinder.org) service.
 
 ## Communication
 
